@@ -80,7 +80,7 @@
     </div>
     <div class="reception"> Reception to follow </div>
     <div class="details">
-        RSVP by [RSVP Date] at [RSVP Email/Phone]
+        Saturday March 27, 2024
     </div>
 </div>
 
